@@ -1,5 +1,5 @@
 _repo: Palaces-and-Courts-of-the-Exposition-A-Handbook-of-the-Architecture-Sculpture-and-Mural-Painti__5620
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
 - !lcc 'N'
+- GITenberg
 title: "Palaces and Courts of the Exposition\r\nA Handbook of the Architecture, Sculpture\
   \ and Mural Paintings, with Special Reference to the Symbolism"
 url: http://www.gutenberg.org/ebooks/5620
